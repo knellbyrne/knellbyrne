@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 
+*  大家好，我是Junichiro，来自福建。
 
+*  我对Java和Python很有兴趣，目前还在学习中。
+
+* **Python是世界上最好的语言**（
+
+* **谢谢**
+
+可以通过邮箱联系我：649941598@qq.com
+这是我的博客：[点击查看博客](https://www.cnblogs.com/kago/ "悬停显示")	 
 <!--
 **knellbyrne/knellbyrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
